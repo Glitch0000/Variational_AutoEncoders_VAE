@@ -5,4 +5,9 @@ The VAE structure is as the following:
 <img width="625" alt="vae_encoder1" src="https://user-images.githubusercontent.com/64538407/111862943-20335480-8961-11eb-9e60-8631b7615d1e.png">
 
 The results of this repository is shown in the following figure:
+
+
 ![vae](https://user-images.githubusercontent.com/64538407/111862957-380ad880-8961-11eb-8789-b99d72833042.png)
+
+
+These are gnerated data from the MNIST dataset.
